@@ -10,7 +10,7 @@
 :bar_chart: Visualização da informação [Information Visualization]
 
 
-## 🚀 Sobre mim
+## 🚀 Sobre mim [About me]
 Eu sou professor da Universidade Federal Rural da Amazônia - UFRA.
 Sou ciêntista da computação, com mestrado e doutorado na área. 
 Além de professor de disciplinas da área de computação, 
