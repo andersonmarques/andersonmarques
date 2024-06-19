@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim [About me]
 Eu sou professor da Universidade Federal Rural da Amazônia - UFRA.
-Sou ciêntista da computação, com mestrado e doutorado na área. 
+Sou ciêntista da computação, com mestrado e doutorado na área :mortar_board: . 
 Além de professor de disciplinas da área de computação, 
 também sou pesquisador em visualização da informação (InfoVis)
  e Interação Humano Computador (IHC).
